@@ -1,5 +1,5 @@
 
-# Youtube_Sentimenta_analysis {using : "PANDAS"}
+# Youtube_SentimentaL_analysis {using : "PANDAS"}
 
 In this project i have analyzed the youtube dataset to identify the positive sentiments,negative sentiments,most frequently used emojis  and much more.
 
