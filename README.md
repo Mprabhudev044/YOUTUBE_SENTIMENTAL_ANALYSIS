@@ -3,7 +3,7 @@
 
 In this project i have analyzed the youtube dataset to identify the positive sentiments,negative sentiments,most frequently used emojis  and much more.
 
-The analysis is doen on these problem statements:
+The analysis is done on these problem statements:
 
 1. Using polarity to finid the postive and negative responses.
 
